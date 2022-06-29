@@ -1,1 +1,1 @@
-# dagg
+# baslangic
